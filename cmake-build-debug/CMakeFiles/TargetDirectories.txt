@@ -1,0 +1,3 @@
+/home/etiene/CLionProjects/exercicioVetores2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/etiene/CLionProjects/exercicioVetores2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/etiene/CLionProjects/exercicioVetores2/cmake-build-debug/CMakeFiles/exercicioVetores2.dir
